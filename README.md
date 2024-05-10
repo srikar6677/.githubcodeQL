@@ -1,0 +1,2 @@
+# .githubcodeQL
+code
